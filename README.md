@@ -1,2 +1,4 @@
 # pyhon-blog1
-First python blog
+Python blog with Solar
+
+
